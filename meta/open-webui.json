@@ -1,0 +1,16 @@
+{
+  "base": "svg",
+  "aliases": [],
+  "categories": [],
+  "update": {
+    "timestamp": "2025-03-17T15:46:47.424214",
+    "author": {
+      "id": 5345489,
+      "login": "savely-krasovsky"
+    }
+  },
+  "colors": {
+    "light": "open-webui-light",
+    "dark": "open-webui"
+  }
+}
